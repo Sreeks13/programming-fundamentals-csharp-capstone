@@ -1,0 +1,3 @@
+Bread,10,40
+Cake,5,500
+Coffee,20,80
